@@ -1,9 +1,11 @@
 #ARCADE CLAW#
 
-Arcade Claw is a hybrid hardware-software web app.  We built Arcade Claw with a Raspberry Pi, an eight-channel DC router, a hacked toy arcade claw game, webcams and MEAN stack web technology. The goal is simple -- manuever a real claw from your web browser to win a prize. 
+Arcade Claw was a hybrid hardware-software web app.  We built Arcade Claw as a school project, with a Raspberry Pi, an eight-channel DC router, a hacked toy arcade claw game, webcams and MEAN stack web technology. The goal is simple -- manuever a real claw from your web browser to win a prize.
 
-##HOW TO PLAY##
-Visit our live deployed app [here](https://dummyurl.herokuapp.com). You can watch for free, or pay 99 cents to play. 
+##Video / blog##
+Check out how we built Arcade Claw
++ [game video] (https://vimeo.com/106074654)
++ [making-of blog] (http://adambarcan.tumblr.com/post/97500046068/hacking-the-claw)
 
 ##RELATED REPO##
 [Web Socket](https://github.com/roaringsheep/piSocket/) for connecting Raspberry Pi.
@@ -14,12 +16,6 @@ Visit our live deployed app [here](https://dummyurl.herokuapp.com). You can watc
 - [Alp Sarilar](https://github.com/asarilar), co-lead developer
 - [Minseon Song](https://github.com/roaringsheep), co-lead developer
 - [Eddie Ng](https://github.com/wardsng), web streaming
-- [Harris Robin Kalash](https://github.com/HarrisRobin), front-end consulting
-
-##SCREENSHOTS / WEBCAST##
-Check it out:
-+ [game video] (https://vimeo.com/106074654)
-+ [making-of blog] (http://adambarcan.tumblr.com/post/97500046068/hacking-the-claw)
 
 
 ##TECHNOLOGIES USED##
@@ -38,9 +34,4 @@ Check it out:
 + real-time video streaming with toggle between webcams
 + setting up payments and a custom interface for Stripe API 
 
-##IMPROVEMENTS##
-+ build a full-size version. Our current version is tabletop.
-
-##ISSUES?##
-Any issues playing the game? Please create a new issue in issues section of this repo.  At this time, we do not accept pull requests or other code contributions.  
 
