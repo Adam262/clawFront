@@ -7,6 +7,14 @@ Check out how we built Arcade Claw
 + [game video] (https://vimeo.com/106074654)
 + [making-of blog] (http://adambarcan.tumblr.com/post/97500046068/hacking-the-claw)
 
+##Screenshots##
+![game page](https://farm4.staticflickr.com/3948/15581653340_4b370771cb_s.jpg)
+
+![Stripe payment](https://farm4.staticflickr.com/3955/15768021372_742b9e6887_s.jpg)
+
+![profile](https://farm8.staticflickr.com/7564/15581653090_8f1b24094a_s.jpg)
+
+
 ##RELATED REPO##
 [Web Socket](https://github.com/roaringsheep/piSocket/) for connecting Raspberry Pi.
 
