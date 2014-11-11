@@ -9,12 +9,15 @@ Check out how we built Arcade Claw
 
 ##Screenshots##
 *Game Page*
+
 ![game page](https://farm4.staticflickr.com/3948/15581653340_4b370771cb.jpg)
 
 *Stripe Payment*
+
 ![Stripe payment](https://farm4.staticflickr.com/3955/15768021372_742b9e6887.jpg)
 
 *Player Profile*
+
 ![profile](https://farm8.staticflickr.com/7564/15581653090_8f1b24094a.jpg)
 
 ##RELATED REPO##
